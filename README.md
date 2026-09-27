@@ -3,8 +3,10 @@
 a simple, fast inline calculator for the terminal.
 
 
+https://github.com/user-attachments/assets/87c9eae5-1300-4b94-875b-20eb5a534e7d
 
-built it to get a quick feel for jax numpy (`jnp`) arrays, so every number you type becomes a `jnp.array` before calculating
+
+built it to play with jax numpy (`jnp`) arrays, so every number you type becomes a `jnp.array` before calculating
 
 ## requirements
 
