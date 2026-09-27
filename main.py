@@ -1,4 +1,3 @@
-import jax
 import jax.numpy as jnp
 
 print("simple calculator using jnp arrays. Type 'q' to quit.")
@@ -10,7 +9,7 @@ while True:
 
     if expression == "q":
         break
-    
+
     if expression == "clear":
         print("\033c", end="")
         continue
